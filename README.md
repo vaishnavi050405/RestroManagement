@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍽️ RestroOps - Restaurant Operations Management System
 
 A full-stack, enterprise-grade Restaurant Operations and Kitchen Management platform built with **React, Node.js, Express, and MySQL**.
@@ -123,3 +124,6 @@ cd frontend
 npm.cmd run dev
 ```
 *Frontend runs on `http://localhost:5173`*
+=======
+# RestroManagement
+>>>>>>> 9e1a59322e92ccf9f180ed41536fab17ac32db66
